@@ -4,7 +4,8 @@ Program ini mengenkripsi dan mendekripsi teks menggunakan tiga jenis cipher:
 -Vigenère
 -Playfair
 -Hill (Matriks 3x3)
-Cara Menjalankan Program
+Cara Menjalankan Program.
+
 Pastikan Anda memiliki Python versi 3.9 dan pip terinstal di sistem.
 1. Klon/Unduh Repositori
 2. Copy code
