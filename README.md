@@ -5,6 +5,7 @@ Program ini mengenkripsi dan mendekripsi teks menggunakan tiga jenis cipher:
 -Playfair
 -Hill (Matriks 3x3)
 Cara Menjalankan Program
+Pastikan Anda memiliki Python versi 3.9 dan pip terinstal di sistem.
 1. Klon/Unduh Repositori
 2. Copy code
 git clone https://github.com/your-username/your-repo-name.git
